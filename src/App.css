@@ -1,0 +1,206 @@
+.App {
+  text-align: center;
+  background-color: #432C7A;
+  height: 100vh;
+}
+.crictitle{
+  justify-content: center;
+	display: flex;
+  font-size: 45px;
+  color: #FF8FB1;
+  padding-top: 110px;
+  font-weight: 750;
+}
+.teamone{
+  color: #FF8FB1;
+  margin-top:20px;
+  font-size: 20px;
+  font-weight: 750;
+}
+.teamtwo{
+  color: #FF8FB1;
+  margin-top:20px;
+  font-size: 20px;
+  font-weight: 750;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+input[type="number"]{
+  width: 170px;
+}
+.overs{
+  color: #FF8FB1;
+  font-size: 20px;
+  font-weight: 750;
+  padding-top: 35px;
+}
+.background{
+  text-align: center;
+  background-color: #432C7A;
+  height: 100vh;
+}
+.Refresh{
+  background-color: #FF8FB1;
+  color: #432C7A;
+  border-radius: 7px;
+  margin-top: 10px;
+}
+.Instruct{
+  background-color: #FF8FB1;
+  color: #432C7A;
+  border-radius: 7px;
+  margin-top: 10px;
+}
+.winner{
+  background-color: #FF8FB1;
+  color: #432C7A;
+  border-radius: 7px;
+  margin-top: 10px;
+}
+.teamone{
+  color:#FF8FB1;
+  font-size: 30px;
+}
+.teamtwo{
+  color:#FF8FB1;
+  font-size: 30px;
+}
+.overall{
+  display:flex;
+  justify-content: space-evenly;
+}
+.oversvalue{
+  color:#FF8FB1;
+}
+.txt{
+  width: 50px;
+	height: 5vh;
+  border-radius: 7px;
+  font-size: 25px;
+}
+.txt1{
+  width: 50px;
+	height: 7vh;
+  border-radius: 7px;
+  margin-left: 10px;
+  font-size: 25px;
+}
+.txt2{
+  width: 50px;
+	height: 7vh;
+  border-radius: 7px;
+  margin-left: 10px;
+  font-size: 25px;
+}
+.txt3{
+  width: 50px;
+	height: 7vh;
+  border-radius: 7px;
+  margin-left: 10px;
+  font-size: 25px;
+}
+.txt4{
+  width: 50px;
+	height: 7vh;
+  border-radius: 7px;
+  margin-left: 10px;
+  font-size: 25px;
+}
+.txt5{
+  width: 50px;
+	height: 7vh;
+  border-radius: 7px;
+  margin-left: 10px;
+  font-size: 25px;
+}
+.wide{
+  display: flex;
+}
+.Run{
+  color:#FF8FB1;
+  font-size: 100%;
+}
+.wicket{
+  color:#FF8FB1;
+  font-size: 100%;
+}
+.runtxt{
+  width:55px;
+  background-color: #432C7A;
+  color: aliceblue;
+  font-size: 100%;
+  font-weight: 500;
+}
+.wickettxt{
+  width:55px;
+  background-color: #432C7A;
+  color: aliceblue;
+  font-size: 100%;
+  font-weight: 500;
+}
+.wides{
+  color:#FF8FB1;
+  font-size: 100%;
+}
+.widestxt{
+  width:55px;
+  background-color: #432C7A;
+  color: aliceblue;
+  font-size: 100%;
+  font-weight: 500;
+}
+.Noball{
+  color:#FF8FB1;
+  font-size: 100%;
+}
+.Noballtxt{
+  width:55px;
+  background-color: #432C7A;
+  color: aliceblue;
+  font-size: 100%;
+  font-weight: 500;
+}
+.vl{
+  border-left: 4px solid white;
+  
+}
+.valid{
+  background-color: aliceblue;
+	border-radius: 8px
+}
+.sub{
+  background-color: aliceblue;
+	border-radius: 7px;
+}
